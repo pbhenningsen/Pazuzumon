@@ -1,0 +1,7 @@
+global.messageState = 0;
+
+
+
+
+
+
